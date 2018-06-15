@@ -1,0 +1,537 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201806 will be lost/reset.
+# Last config file used to build this data file was /home/goomeru/tmp/awstats/awstats.goome.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2004                
+POS_TIME 2683                
+POS_VISITOR 15423               
+POS_DAY 15560               
+POS_DOMAIN 3478                
+POS_LOGIN 3711                
+POS_ROBOT 3866                
+POS_WORMS 4805                
+POS_EMAILSENDER 4936                
+POS_EMAILRECEIVER 5079                
+POS_SESSION 15921               
+POS_SIDER 16128               
+POS_FILETYPES 5214                
+POS_DOWNLOADS 5492                
+POS_OS 6044                
+POS_BROWSER 6314                
+POS_SCREENSIZE 7378                
+POS_UNKNOWNREFERER 7452                
+POS_UNKNOWNREFERERBROWSER 7811                
+POS_ORIGIN 8026                
+POS_SEREFERRALS 8166                
+POS_PAGEREFS 8323                
+POS_SEARCHWORDS 8686                
+POS_KEYWORDS 8849                
+POS_MISC 2346                
+POS_ERRORS 8919                
+POS_CLUSTER 3567                
+POS_SIDER_404 9040                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180613145528 82 16583 9648584458946
+FirstTime 20180601004241
+LastTime 20180613142816
+LastUpdate 20180613151702 82 0 82 0 0
+TotalVisits 72                  
+TotalUnique 1                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 1                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 38 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 22 102 3378483 28 37 12792436
+1 12 16 2102922 12 181 251369
+2 3 3 5089 8 12 13563
+3 9 26 1866535 12 28 37138
+4 4 4 5536 16 22 228196
+5 4 4 5536 5 8 5168
+6 5 5 7857 6 12 12360
+7 1 1 2321 2 4 105337
+8 24 229 8700445 16 20 759986
+9 10 101 4765893 27 38 712918
+10 16 82 4562279 19 34 2688294
+11 36 301 10116002 23 141 285663
+12 52 403 35985549 12 276 3992108
+13 11 31 1977864 15 29 19270
+14 7 7 7384 3 8 6767
+15 19 122 11732326 27 58 70231
+16 7 48 3900891 7 24 26512
+17 13 15 8206 13 33 12101
+18 9 13 486306 51 78 261169
+19 13 42 4261942 45 68 33764
+20 4 19 1317858 6 16 14634
+21 14 14 612959 14 16 103263
+22 10 198 3907745 63 96 13146871
+23 16 78 3509885 25 41 8593546
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ru 321 1864 103227813
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 21
+facebookexternalhit/ 68 289687 20180613132118 0
+YandexBot/ 46 47191 20180613045716 17
+MJ12bot/ 28 18074 20180612055254 5
+Googlebot/ 20 124501 20180612223017 8
+360Spider 13 223061 20180612040657 0
+YandexMetrika/ 7 108995 20180613023111 0
+bingbot/ 7 5785 20180613065217 3
+bot[\s_+:,\.\;\/\\-] 7 107024 20180612183113 0
+no_user_agent 6 112233 20180612041637 0
+[\s_+:,\.\;\/\\-]bot 5 2235 20180603134452 0
+Mail\.RU_Bot/ 4 4690 20180612155007 2
+unknown 4 96 20180613133115 4
+blog 3 4666 20180606153241 1
+DomainCrawler/ 2 2345 20180612022104 1
+(firefox/)([0-9]\.|[0-1][0]\.) 2 4642 20180610174207 0
+DuckDuckGo\-Favicons\-Bot/ 2 4642 20180610012120 0
+Wget/ 1 2321 20180607031819 0
+yandex 1 2321 20180609194304 0
+archive\.org_bot 1 24 20180605022852 1
+proximic 1 447 20180602152733 0
+crawl 1 2321 20180606000205 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+jpg 657 36849742 0 0
+txt 7 448 0 0
+map 35 19178486 0 0
+png 79 6854101 0 0
+Unknown 100 5854622 0 0
+html 151 1780039 0 0
+php 7 515579 0 0
+js 161 20292234 0 0
+svg 547 278220 0 0
+css 92 3892718 0 0
+ttf 28 7731624 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 7
+/.well-known/pki-validation/9966E070D9449CC2120B1BEA2FF5BFC9.txt 1 0 64
+/.well-known/pki-validation/1DD6950712F5A7BFBD584E0295367D8D.txt 1 0 64
+/.well-known/pki-validation/0AFA7CCB4817C2F6B45121000FD93B8C.txt 1 0 64
+/.well-known/pki-validation/0BD07F22F6DE58A71EF60E76208544CF.txt 1 0 64
+/.well-known/pki-validation/B660EAD28F47B3B15C3571E1060E64A2.txt 1 0 64
+/.well-known/pki-validation/81420C6F5B64DC90E1FA75D9DB41F4B8.txt 1 0 64
+/.well-known/pki-validation/3BF1C1DAF70302DF5E0EF4AC86217112.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+linux 28 28
+macosx12 5 5
+winxp 4 4
+win8.1 53 8
+win7 28 28
+ios_iphone 83 14
+win2003 1 1
+linuxandroid 1 1
+win10 1581 204
+winlong 1 1
+win8 4 4
+Unknown 17 10
+macosx9 5 5
+macosx10 1 1
+macosx 49 4
+macosx11 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 53
+chrome67.0.3396.79 71 7
+chrome38.0.2125.111 5 5
+opera11.10 1 1
+firefox52.0 8 8
+netscape5.7 1 1
+chrome34.0.1847.132 9 9
+firefox33.0 1 1
+firefox17.0 4 4
+chrome66.0.3359.181 188 24
+chrome99316 1 1
+chrome36.0.1985.143 1 1
+safari4.0.5 1 1
+firefox57.0 1 1
+netscape5.8 2 2
+Unknown 13 6
+chrome58.0.3029.110 1 1
+msie6.0 2 2
+mozilla 1 1
+firefox53.0 1 1
+chrome42703 1 1
+iphone 76 7
+safari11.1 48 3
+netscape5.0 1 1
+chrome63.0.3239.84 1 1
+chrome34.0.1847.116 1 1
+opera49.0.2725.47 2 2
+chrome62.0.3202.94 1 1
+chrome62.0.3202.62 1 1
+firefox46.0 1 1
+firefox60.0 1350 167
+chrome41.0.2272.96 1 1
+chrome40.0.2214.115 1 1
+chrome60.0.3112.90 3 3
+firefox51.0 5 5
+chrome54.8.3013.8385 1 1
+chrome61.0.3163.100 4 4
+chrome67.0.3396.62 12 1
+chrome42.0.2311.90 6 6
+msie8.0 1 1
+chrome65.0.3325.181 7 7
+edge14 1 1
+msie7.0 1 1
+chrome22.0.1229.94 1 1
+firefox61.0 1 1
+chrome55.0.2883.87 1 1
+chrome49.0.2623.75 1 1
+chrome57.0.2987.133 1 1
+firefox41.0 1 1
+safari5.2.7 1 1
+chrome56.0.2924.87 5 5
+firefox59.0 2 2
+safari11.0 6 6
+opera53.0.2907.68 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+python-requests/2.18.4 20180610194847
+facebookexternalua 20180602152647
+COMODO_DCV 20180608035111
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180602111453
+Mozilla/5.7 20180604085647
+Go_1.1_package_http 20180604220814
+Mozilla/5.8 20180610015638
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+COMODO_DCV 20180608035111
+python-requests/2.18.4 20180610194847
+facebookexternalua 20180602152647
+Go_1.1_package_http 20180604220814
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 210 217
+From1 1 1
+From2 2 2
+From3 18 18
+From4 90 1626
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandexru 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+https://l.facebook.com 8 8
+http://m.facebook.com 4 4
+https://l.facebook.com 1 1
+http://virbot.ru/www.goome.ru 1 1
+https://www.cjb.net 1 1
+http://advokaty-24.ru 1 1
+http://l.instagram.com 1 1
+http://cpa-otkat.ru 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+goome.ru 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+goome.ru 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+500 188 42100059
+301 20 4666
+404 784 1000638
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 138
+/static/img/goods/5.jpg 8 http://www.goome.ru/owner
+/configuration.php 2 -
+/admin/index.php 2 -
+/cabinet/css/mobile.css 2 http://www.goome.ru/cabinet/
+/assets/img/users/avatar3.jpg 2 http://www.goome.ru/owner
+/upgrade-network.php 13 -
+/js/api.js 1 -
+/static/img/goods/6.jpg 8 http://www.goome.ru/owner
+/administrator/index.php 2 -
+/static/img/newProduct/white3.jpg 5 http://www.goome.ru/owner
+/avto_moto/ 1 -
+/static/img/newProduct/broun3.jpg 5 http://www.goome.ru/owner
+/old/wp-admin/setup-config.php 1 -
+/bootstrap4/css/bootstrap.min.css 40 http://www.goome.ru/owner
+/static/common.css 1 http://goome.ru/static/common.css
+/admin/login.php 1 http://goome.ru/admin/login.php
+/assets/img/graph.svg 9 http://www.goome.ru/owner
+/static/img/goods/3.jpg 8 http://www.goome.ru/owner
+/static/img/newProduct/white1.jpg 5 http://www.goome.ru/owner
+/cabinet/bootstrap4/css/bootstrap.min.css 2 http://www.goome.ru/cabinet/
+/assets/img/users/avatar4.png 2 http://www.goome.ru/owner
+/mai 2 -
+/assets/img/shops/shop1.jpg 1 http://www.goome.ru/owner
+/static/img/newProduct/broun1.jpg 5 http://www.goome.ru/owner
+/static/iconic/svg/aperture.svg 41 http://www.goome.ru/owner
+/assets/img/goods/3.jpg 3 http://www.goome.ru/owner
+/static/js/app.61884049355362e9dded.js 10 http://www.goome.ru/owner
+/auth/register 1 -
+/css/mobile.css 40 http://www.goome.ru/owner
+/static/img/goods/4.jpg 8 http://www.goome.ru/owner
+/cms/admin/index.php 1 -
+/static/js/manifest.2ae2e69a05c33dfc65f8.js 10 http://www.goome.ru/owner
+/user/photo140/ 1 -
+/admin 4 -
+/static/img/shops/shop2.jpg 1 http://www.goome.ru/owner
+/assets/img/statistic.jpg 9 http://www.goome.ru/owner
+/assets/index.html 1 -
+/assets/img/shops/shop2.jpg 1 http://www.goome.ru/owner
+/plugins/modules.php 3 -
+/static/img/shops/shop1.jpg 1 http://www.goome.ru/owner
+/libraries/index.php 3 -
+/static/img/newProduct/balck2.jpg 5 http://www.goome.ru/owner
+/wom 2 -
+/JiL0mhtEkBuoaddmZ16ovXFfU 1 http://goome.ru/JiL0mhtEkBuoaddmZ16ovXFfU
+/adminzone 1 http://goome.ru/adminzone
+/assets/img/articles/size2.jpg 1 http://www.goome.ru/owner
+/static/iconic/svg/eye.svg 12 http://www.goome.ru/owner
+/sitemap.xml 8 -
+/11.php 3 -
+/user 2 -
+/cms/admin 1 http://goome.ru/cms/admin
+/CHANGELOG.txt 1 -
+/static/img/users/avatar5.png 1 http://www.goome.ru/owner
+/help 1 -
+/static/img/newProduct/black.jpg 6 http://www.goome.ru/owner
+/assets/img/users/avatar2.png 2 http://www.goome.ru/owner
+/assets/img/goods/5.jpg 3 http://www.goome.ru/owner
+/video_prikoli/ 1 -
+/static/iconic/svg/share.svg 12 http://www.goome.ru/owner
+/manager 1 http://goome.ru/manager
+/static/img/newProduct/white2.jpg 5 http://www.goome.ru/owner
+/ 28 -
+/static/img/articles/size3.jpg 1 http://www.goome.ru/owner
+/wp-datas.php 3 -
+/static/js/app.21d4d1103ea04c016454.js 7 http://www.goome.ru/owner
+/robots.txt 29 -
+/static/cartreminder.js 1 http://goome.ru/static/cartreminder.js
+/assets/img/articles/size1.png 1 http://www.goome.ru/owner
+/mscms 1 http://goome.ru/mscms
+/assets/img/goods/4.jpg 3 http://www.goome.ru/owner
+/js/mage/cookies.js 1 -
+//blog/ 2 http://goome.ru/
+/assets/iconic/svg/star.svg 7 http://www.goome.ru/owner
+/static/img/newProduct/black3.jpg 5 http://www.goome.ru/owner
+/static/img/graph.svg 19 http://www.goome.ru/owner
+/static/img/statistic.jpg 19 http://www.goome.ru/owner
+/modules/modules.php 3 -
+/cms 1 http://goome.ru/cms
+/static/img/users/avatar4.png 1 http://www.goome.ru/owner
+/assets/img/users/avatar6.jpg 2 http://www.goome.ru/owner
+/static/iconic/svg/cart.svg 11 http://www.goome.ru/owner
+/assets/img/goods/6.jpg 3 http://www.goome.ru/owner
+/static/css/app.6ab7467c5b056dabd46b52d472ca9067.css 5 http://www.goome.ru/owner
+/assets/iconic/svg/thumb-up.svg 7 http://www.goome.ru/owner
+/core/xpdo/changelog.txt 1 -
+/administrator 1 http://goome.ru/administrator
+/assets/img/users/avatar5.png 2 http://www.goome.ru/owner
+/main/ 1 -
+/static/iconic/svg/envelope-closed.svg 11 http://www.goome.ru/owner
+/static/img/newProduct/broun2.jpg 5 http://www.goome.ru/owner
+/wp-login.php 3 -
+/wp-pols.php 12 -
+/wordpress/wp-admin/setup-config.php 1 -
+/ads.txt 16 -
+/static/iconic/svg/thumb-up.svg 20 http://www.goome.ru/owner
+/up.php 2 -
+/css/style.css 40 http://www.goome.ru/owner
+/static/img/users/avatar2.png 1 http://www.goome.ru/owner
+/admin.php 3 -
+/cabinet/css/style.css 2 http://www.goome.ru/cabinet/
+/assets/img/newProduct/black.jpg 1 http://www.goome.ru/owner
+/static/iconic/font/css/open-/static/iconic-bootstrap.css 21 http://www.goome.ru/owner
+/layouts/modules.php 3 -
+/static/img/articles/size2.jpg 1 http://www.goome.ru/owner
+/static/img/goods/1.jpg 12 http://www.goome.ru/owner
+/feed/ 1 shoptxt.RU
+/assets/img/goods/2.jpg 3 http://www.goome.ru/owner
+/xmlrpc.php 1 -
+/tmp.php 3 -
+/assets/img/goods/1.jpg 3 http://www.goome.ru/owner
+/static/img/goods/2.jpg 8 http://www.goome.ru/owner
+/assets/img/users/avatar1.jpg 2 http://www.goome.ru/owner
+/admin_panel/ 2 -
+/index.html 1 -
+/static/css/app.4af2b7dc75457b745ee3271a729e8e0f.css 5 http://www.goome.ru/owner
+/blog/xmlrpc.php 1 -
+/static/iconic/svg/person.svg 11 http://www.goome.ru/owner
+/static/img/users/avatar1.jpg 1 http://www.goome.ru/owner
+/assets/img/articles/size3.jpg 1 http://www.goome.ru/owner
+/administrator.php 1 http://goome.ru/administrator.php
+/netcat 1 http://goome.ru/netcat
+/assets/iconic/font/css/open-/assets/iconic-bootstrap.css 21 http://www.goome.ru/owner
+/admin/login 1 -
+/.well-known/autoconfig/mail/config-v1.1.xml 1 -
+/static/js/vendor.37f2871edc7ca02800af.js 7 http://www.goome.ru/owner
+/overlay.php 3 -
+/users/sign_in 1 http://goome.ru/users/sign_in
+/erotika/ 1 -
+/js/front.min.js 1 http://goome.ru/js/front.min.js
+/static/js/vendor.ae696f57a3546fe0dcd0.js 10 http://www.goome.ru/owner
+/static/img/articles/size1.png 1 http://www.goome.ru/owner
+/cms/lang/ru_utf8/css/sbIndex.css 1 -
+/static/img/users/avatar6.jpg 1 http://www.goome.ru/owner
+/static/img/users/avatar3.jpg 1 http://www.goome.ru/owner
+/assets/iconic/svg/share.svg 3 http://www.goome.ru/owner
+/static/iconic/svg/star.svg 19 http://www.goome.ru/owner
+/cabinet/ 2 -
+/static/iconic/svg/bell.svg 11 http://www.goome.ru/owner
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1
+82.202.201.59 321 1864 103227813 20180613142816 20180613132123 /
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 13
+20180601 10 10 4470 5
+20180602 10 11 4534 6
+20180603 23 23 10635 6
+20180604 23 23 209785 7
+20180605 30 52 1987313 7
+20180606 68 690 22908501 7
+20180607 109 940 72908833 7
+20180608 9 12 21081 6
+20180609 3 3 6963 3
+20180610 6 6 13926 5
+20180611 8 52 3381646 6
+20180612 9 9 20889 4
+20180613 13 33 1749237 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 1
+30s-2mn 1
+1h+ 7
+0s-30s 40
+15mn-30mn 4
+5mn-15mn 4
+30mn-1h 14
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 27
+/ 144 1598527 61 63
+/owner 41 3574745 4 0
+/static/css/app.5a3e108f630490f5cee1559b33b497ae.css.map 25 4819400 0 3
+/main 24 1136326 3 1
+/assets/fonts/Ubuntu-Regular.ttf 12 3166956 0 1
+/assets/fonts/Ubuntu-Bold.ttf 12 2984508 0 0
+/children 6 215094 1 1
+/static/js/vendor.ae696f57a3546fe0dcd0.js.map 6 13675686 0 0
+/man 5 169739 0 0
+/i.php 5 510937 1 0
+/goome.ru/ 5 3030 0 0
+/house 4 134493 0 0
+/woman 4 138648 0 0
+/accessories 4 129505 0 0
+/assets/fonts/Ubuntu-Light.ttf 3 1240800 0 0
+/help 3 103614 0 1
+/food 3 91551 0 0
+/cabinet/ 2 178482 0 0
+/index.php 2 4642 2 0
+/decor 2 64574 0 0
+/contacts 2 50474 0 0
+/static/js/app.1cdcad5fd8c08fadda34.js.map 2 341706 0 0
+/assets/fonts/Ubuntu-Medium.ttf 1 339360 0 0
+/static/js/app.5d2dacdb5a5713452926.js.map 1 170850 0 0
+/static/js/app.99f444358d3878f507ab.js.map 1 170844 0 0
+/test 1 4 0 1
+/rules 1 45855 0 0
+END_SIDER

@@ -1,0 +1,209 @@
+CACHE type 5 produced by analog 6.0/Unix. Do not modify or delete!
+T	0	0	121	92	43	65	1058915
+D	25375949	25483134
+17622	53	2	2	894
+17622	54	3	3	1341
+17624	122	1	1	447
+17624	242	1	1	447
+17625	30	1	1	447
+17683	203	3	3	1341
+17683	204	1	1	447
+17683	231	1	1	447
+17684	152	2	2	894
+17684	165	2	2	894
+17684	167	2	2	894
+17684	168	2	2	894
+17684	178	2	2	894
+17684	180	1	0	0
+17684	205	1	1	447
+17685	152	1	1	447
+17685	163	1	1	447
+17685	167	1	1	447
+17685	185	1	1	447
+17686	9	1	1	447
+17686	63	1	1	447
+17686	112	1	1	447
+17686	141	4	4	1788
+17686	158	1	1	447
+17686	198	2	2	894
+17686	213	4	4	1788
+17686	223	1	1	624
+17686	225	1	1	624
+17687	115	2	2	1248
+17687	138	1	1	624
+17687	183	2	2	918
+17687	219	1	1	459
+17687	231	1	1	459
+17688	81	1	0	24
+17688	180	2	1	120942
+17688	182	2	1	119077
+17688	185	2	1	120520
+17688	201	2	1	119194
+17688	210	4	4	478331
+17688	258	1	0	24
+17689	88	1	1	2321
+17689	162	1	1	2321
+17689	233	4	2	4690
+17689	278	1	0	24
+17689	280	1	1	2321
+17690	123	3	3	6963
+17690	159	2	2	4642
+17690	162	2	1	2321
+17690	165	2	1	2345
+17690	277	2	1	2345
+17691	138	1	1	2321
+17691	187	1	0	24
+17691	245	4	2	4690
+17692	65	1	1	2321
+17692	143	1	1	2321
+17692	170	1	1	2321
+17693	91	1	0	24
+17693	226	4	2	4690
+17694	238	1	1	2321
+17694	260	2	1	2345
+17694	278	1	0	24
+17695	12	4	2	4690
+17695	138	4	2	4690
+17695	150	1	1	2321
+17695	210	4	2	4690
+17696	163	4	3	6963
+17696	178	1	0	24
+1	7	7	5	0	25480552	25463077	0	25464539	25457745	0	5015	/?82.202.201.59
+1	1	1	0	0	25468905	0	0	25468905	0	0	447	/?C=D;O=D
+1	0	0	0	2	0	0	25465860	0	0	25465860	0	/autodiscover/autodiscover.xml
+1	0	0	0	25	0	0	25483134	0	0	25376847	0	/ads.txt
+1	1	1	0	0	25471772	0	0	25471772	0	0	119583	/?C=S&O=A
+1	0	0	0	1	0	0	25459835	0	0	25459835	0	/.well-known/assetlinks.json
+1	1	1	1	0	25379772	25456400	0	25379772	25456400	0	447	/?54.36.187.89
+1	0	0	0	1	0	0	25471756	0	0	25471756	0	/goome.ru/
+1	1	1	0	0	25471772	0	0	25471772	0	0	119583	/?C=N&O=D
+1	1	1	0	0	25468549	0	0	25468549	0	0	447	/?C=D;O=A
+1	1	0	0	0	25465860	0	0	25465860	0	0	0	/Microsoft-Server-ActiveSync
+1	1	1	0	0	25471772	0	0	25471772	0	0	119583	/?C=M&O=A
+1	72	72	37	3	25483059	25464393	25472011	25375949	25456401	25472003	570994	/
+1	0	0	0	1	0	0	25474745	0	0	25474745	0	/ads.txt?82.202.201.59
+1	1	1	0	0	25471772	0	0	25471772	0	0	119582	/?C=D&O=A
+1	1	1	0	0	25468905	0	0	25468905	0	0	447	/?C=S;O=D
+1	0	0	0	2	0	0	25378049	0	0	25376847	0	/robots.txt?54.36.187.89
+1	1	1	0	0	25468549	0	0	25468549	0	0	447	/?C=S;O=A
+1	1	1	0	0	25468549	0	0	25468549	0	0	447	/?C=N;O=D
+1	1	1	0	0	25468905	0	0	25468905	0	0	447	/?C=M;O=D
+1	5	0	0	4	25483058	0	25470439	25471622	0	25465788	0	/favicon.ico
+1	17	0	0	26	25483134	0	25469856	25471127	0	25379260	408	/robots.txt
+1	6	0	0	0	25481851	0	0	25471634	0	0	144	/robots.txt?82.202.201.59
+1	1	1	0	0	25468905	0	0	25468905	0	0	447	/?C=N;O=A
+1	1	1	0	0	25468549	0	0	25468549	0	0	447	/?C=M;O=A
+3	2	2	0	0	25465853	0	0	25465804	0	0	894	https://yandex.ua/
+3	0	0	1	0	0	25462850	0	0	25462850	0	0	https://l.instagram.com/?u=https://goome.ru/&e=ATPITAUqdgWhKcdk8hzTlgSYR7w18ZpJkUlJ_Bll-eo37L4ruvTCevLXSIHQIl0NMOsbvk7bPiL3N7w8
+3	0	0	1	0	0	25461623	0	0	25461623	0	0	https://l.instagram.com/?u=https://goome.ru/&e=ATMa4cGtSt77Gm_Nt04UBt2bgW9hxOCpYJGxBX5h5jUhQcJlEEeWOYfEjWkmyNKyQexsbFtE_RUJhiKx
+3	0	0	1	0	0	25461992	0	0	25461992	0	0	https://l.instagram.com/?u=https://goome.ru/&e=ATNTRwFWH_GE_35BTg1WXjz_1rKf6Wx10-fioMnJdp0B1R_wQ4-MT80QU5uYWrpKbQ4sJH9sKb8bdppW
+3	1	1	0	0	25471648	0	0	25471648	0	0	120520	https://yandex.ru/clck/jsredir?bu=5kunz5&from=yandex.ru%3Bsearch/%3Bweb%3B%3B&text=&etext=1809.J_y0AxZfqOOFXkS6zGCNe9zBpiKMZNMmxieHs9OvilqdwvufttdrxR_V__7WOoKp.d8acf40370fc9f1fc61815ce3d0d3e47bc142ced&uuid=&state=PEtFfuTeVD5kpHnK9lio9dFa2ePbDzX7kPpTCH_rtQkH2bBEi5M--bO-cYhaTVRUKsHz296PTcx7yYHoYVYTyJcccpY4iqyX&&cst=AiuY0DBWFJ5fN_r-AEszk3vw0Y41Jlso1NnFAeu0utusOjPkV-g41kUrwJtPUF_-ma6-Rt-e5VeqKzUVa_60BXHa7TjamthEesGpV_sYSnjNsU-cTMWFuou2qNabVkU0kYS0Mc7Ur-UMwoHHOXUw0Wj_ddRCMHBMdy5RnIfI1BkshxqYq2ZZ61WbonuYHQEsmD9swQLJf-qp5FhnULL-kNk8KcuV4BAQEiw7I-V3sXJ5XGSR2-CvgjMYCCwmb0_0UQOqh2hKCuXF9WLfJXsy9KU9_SaxoHgvzgXk2BmTkH-_lJFTPGh3PhsjlVOTs-FtyletJHFrHgBw17dmkgK8x04AnkOeN4mWdQ5iG28Tnu2O9_f0PtVjKeIbttpYJM_bsQXkdUjTwaT_DISScHGSrblTbHVsZ2wIn7lEg4Ji64PBHWOi6c93EbCOdYlT2P18k4NxMhgxFV3TFPswiHYyQA,,&data=UlNrNmk5WktYejY4cHFySjRXSWhXRFUwd2xLN0F6SExIZ1d0aUQ5cnZhQ0doWTRMQ1RDWHAxRWJ2WDF5cGM4bjZIVnlQYWRIS1RSaVVxNXRBS2ppU0N3enVGM0FkYldV&sign=913c81beed01989ecce5e66bdf03e221&keyno=0&b64e=2&ref=orjY4mGPRjk5boDnW0uvlrrd71vZw9kpjly_ySFdX80,&l10n=ru&cts=1528201714321&mc=3.7834651896016465
+3	6	3	0	0	25474413	0	0	25375950	0	0	1341	https://www.goome.ru/
+3	1	1	0	0	25467239	0	0	25467239	0	0	447	https://l.instagram.com/?u=https://goome.ru/&e=ATP2_G6IvUtjzXTkuRejOIqZgXTnn9qyz6BsR93YfNwNfe9KeNwaI_heTLa04ACHNU3hlgKsJl9wWec
+3	0	0	1	0	0	25461938	0	0	25461938	0	0	https://l.instagram.com/?u=https://goome.ru/&e=ATOtQbOdaW42bjQPLHP11CPvsKwK5DHnBFzyKpPfQ7zBf5yrVf-j5euelMxAfg4ddilbarHkaUcQ72Y1
+3	0	0	1	0	0	25462850	0	0	25462850	0	0	https://l.instagram.com/?u=https://goome.ru/&e=ATMo4LS2h-gQy9mTwZjV75N6b85vu8RLeX-cblSaLB6FL3PKllL-M51JSE72k49vD2G68cvIi2urxsZv
+3	0	0	1	0	0	25462922	0	0	25462922	0	0	https://l.instagram.com/?u=https://goome.ru/&e=ATPhr59OOge4DMqwcGqUOgdlaprq2bg_LN8sEQpWfK_OOmXAPrYNO0nFqespbMdDj-FVZkva3YLgs0fU
+3	0	0	1	0	0	25461223	0	0	25461223	0	0	http://www.google.com/
+3	0	0	1	0	0	25461988	0	0	25461988	0	0	https://l.instagram.com/?u=https://goome.ru/&e=ATP8yhCKydbjFjF0WD8sVBtyFET473mci8bEsB3SE09YC1zFWBsFHXSek-zZCjU0-H1Z2moILVqz84GN
+3	0	0	1	0	0	25460609	0	0	25460609	0	0	https://away.vk.com/away.php
+3	1	1	0	0	25465986	0	0	25465986	0	0	447	https://l.instagram.com/?u=https://goome.ru/&e=ATOlz_eQiZvAvyJFssd3dlTwTh5_QeEhALQZXnNgDvCwiWBbZrL9slUbKzpWhXOm5tCwfG8pUr-p5Kck
+3	1	1	0	0	25471622	0	0	25471622	0	0	120942	http://www.yandex.ru/clck/jsredir?from=www.yandex.ru%3Byandsearch%3Bweb%3B%3B&text=&etext=1809.R16VYLJrXMC7QBc08ShyNqN1gZxTo82hm4zWWMQYLnk.066f2fffcfacf19307ff5f263e00cf2d3c586651&uuid=&state=PEtFfuTeVD5kpHnK9lio9XPOnieP7YQB5qSEuhhpsIv1C12IT81lIw,,&&cst=AiuY0DBWFJ5fN_r-AEszkwaKY2XtdCiozq7V1qizU_9NganXw7ERKufuUYXbjb6YEpY8ZSauq-yPaoGTuF8uwP8XBdyeZWZPp8IefE5eNvmnetiC-_wORv55CGYCGEZeO0_77sEDhLlE2AmxBYDujahFXSx6fXpQgPcqgKLeMYDaJUr3wuqtmqPgPXhAhvr6QPK07EDO0g4x9-ls548FmAZxhDUhCU7wgcnHCoFs3m-0eWx4vZVHam1kEq5G4AjSagLuve7mI9v2qafA6t6S70I-aD9SD-IorAnLuxLas3eOTqx9L4whMWlp_hCL-dSlM3kzox8IcRxv8GugUKqOUa6LduLlsuZ1Sl9O7CKiXtL_hAg46F2R5oi8p5yMyyaFe633pK000ZJ2ZimCejNGVJc09CKWs_JF3AE_v-tm4C1_MiMCdCdX2mVdqGpEDoKA5o6FjFH94pZdYomxEjx8UKVMN-b4HN3CI3DOxqGA29PxU2X64UDM0xZxBXv_FKRQk5nMbd8fyj5o87suvSTzOKTTakwbaN2hHitwU4kzO-YlK5GVaLhYaYjJ2LOzLDq_kWgc9RZeGpSuX77ppYGaV9y0nrn0LSVK5-nWy8DFqne0OQDBFapR9aGDumvzruWuVv-QA7akRslsbpwetMDAZhKZZMqKZClI6xvwKZ0Mw_dzgCTxKw17tos6ur_ptDG6kw1ePzqV8EbY4GiHdvmOHVypfJWUYippsZX12xQo9qReS-WsYu4ZJtqk8fyHKqOCK0Z_2cFF3sNzxQxm977wnoneBCOX1dW3Tx8HHhCdBPZrfVaE16rR8A-UdvdibYYgE6-QeiHNJMwubme7J1GoYS5hpKP9N91gamyK-PiNRfrjisWr2sTWpNM0aS48aPEiUKUHyrZffFcZPKmpzKBrajHd0_OT925_rsCbDYxLMlhb6py9HlEqOPBh_png7rJef64FoTUdv3I8ApN8O5fMeFuSfrHfIKXhRsx09m-Uj7yQZzYd47zhwRBYG2R1kJUwVqAkvM3oMGKpNtn6txAwti6hTpmeC_7KxG0lZPtHP5Q,&data=UlNrNmk5WktYejY4cHFySjRXSWhXRFUwd2xLN0F6SExIZ1d0aUQ5cnZhQ0doWTRMQ1RDWHA2VmlocEhlb1o5Rzk2dWxmbmJzRnFSX212c2JldGIzWGV3LUQyazBsdFIt&sign=8b8e4d127757054ff0ec1e32d964a77a&keyno=0&b64e=2&ref=x632n4e4fcnc707jsJDC5GnIoDExVAShRfGFvXOF55b3Hp2z9w0z6nphsrYEKfcQeAYzVNWreUhEnsZXmqiZ0w,,&l10n=ru&cts=1528200153389
+3	0	0	1	0	0	25462817	0	0	25462817	0	0	https://l.instagram.com/?u=https://goome.ru/&e=ATOArTyOdJeIZUQ3yvoxqcgjUrVMrI9XqPb21iD1rHiVs7-p_Of69cPHdhNZGD3vPK2aCrXHGABUxalR
+3	1	1	0	0	25464540	0	0	25464540	0	0	447	https://l.instagram.com/?u=https://goome.ru/&e=ATOcXhuu8nPYqCU8O8-wN_myaxIfCR6-rWjXg-ajRPsp9Q0V7sK2k3Ds0dIiwDu0gzJEe43xTPHV42Ie
+3	0	0	1	0	0	25461940	0	0	25461940	0	0	https://l.instagram.com/?u=https://goome.ru/&e=ATMRzIqGG6TGbI-QwUdm3otvp4bQjbmz8nwkBJgkfhkZWhQdanKlD4YpVcFO_kKrmgQlULI4YVs5qwYl
+3	0	0	1	0	0	25457065	0	0	25457065	0	0	https://l.instagram.com/?u=https://goome.ru/&e=ATORRts7oClmduWyqG65TitiCgkCDqFn2g62sKbLzZwB34xSkqoSNb2ASpoHj09c_AlwYEacXgmT1UB4
+3	1	1	0	0	25465853	0	0	25465853	0	0	447	https://yandex.ua/clck/jsredir?bu=3pn5f6&from=yandex.ua%3Bsearch/%3Bweb%3B%3B&text=&etext=1805.xYebF1lKMaEGD373gK9adY3hB_J62aeolDkH4XpExF8.45b89bc4e41e59ab388e5c813cd20506fb5f7a2c&uuid=&state=PEtFfuTeVD5kpHnK9lio9dFa2ePbDzX7kPpTCH_rtQkH2bBEi5M--bO-cYhaTVRUPt9FXYN03weBS9nKEr_LVd0b6HOMUidQ&&cst=AiuY0DBWFJ5Hyx_fyvalFOuujzLJ90uz12lppLsoocSLWwmUsHHiTeMh5aw70wasv06ltjSc1mWIhdeo-AZLrETdZlHASKKsfr5UYQkjNXwc6RG3X9Kvha-nIj3U_rqKcVRqiWWrr_7cFmxKmLEaOHNtssh9tLX1d8u7iG4t5to36M0RPMz1d41umz11AFKFmwZGt8Q4A1iagPFB_Ilb_8QGWcQZFeSFHtB87Jh-0BLMC7hpuXr8D0_q1dKAkFgDKFbMMVGAUY7IH-_vDWxYVdMhFRFh95wA899gLSh-LOLJffDz6268CqM9_ikA-QziGlqCHf0BQRtZqTrmS6KWqKfswWOsJay36hkO50gbzIsE0jzrt9KVsCa7hibVTu0Pyuo34tCCX2fa4irFYvFdumx91rJmUoqBSSYBkcf7VwqJ5ipEnT3sb1VIWSQjJazwgXQueZMz4k_4tyd1pc-3CZtZbAkNI907L9irChf_mTFmRn7bw6x7Fd4-YRvdRFmUPknOqt_SPu1L_ALuUO8jZcctCbA0_o9-zogrWIq8BGRrsoBFDXrjRUFnNCdKsEDJYLK0zMTw-P0nQnmwt1NUaJhIRObVAMjSd1clU7ND_e8DM_c_ovMx6g,,&data=UlNrNmk5WktYejY4cHFySjRXSWhXRGFtV0YxczVVbDhEcWNEZGkwQ0xTSGVWNm5GcjJHN1poYUdKTmVnaVZSRjdlSnpxNkNkTGxXTEF2U0ZjdFExa1cweE9tczg3QXA4&sign=944ba825e405856df5c83545cb1092c5&keyno=0&b64e=2&ref=orjY4mGPRjmt1xzYuZsDZSKx6sHOF1RVLE6Qj-3kxAE,&l10n=ru&cts=1527853971082&mc=4.177845110307724
+3	1	1	0	0	25464539	0	0	25464539	0	0	447	https://l.instagram.com/?u=https://goome.ru/&e=ATNcRPcG_hPl3pXWN12wQQUFe0k0ktRBhw9xbehd27iVxWE3sknICECUB1fAt8GtmqcO7kixkSWQD105
+3	1	1	0	0	25464539	0	0	25464539	0	0	447	https://l.instagram.com/?u=https://goome.ru/&e=ATN4NlaWoqCoz74TAHQ-KNKED16yVUQTJfI7bng2Q9u39a6bYWkELyyKC6r0fxDR1UzXrZyLhqHN-0u1
+3	4	4	1	4	25471772	25462175	25470439	25471772	25462175	25465788	478331	https://goome.ru/
+3	1	1	0	0	25473562	0	0	25473562	0	0	2321	https://l.instagram.com/?u=https://goome.ru/&e=ATPXHYCNF0EUvuYtRbJM_0zXywTXqx3GhQxnXfJHDj4xUY2GU8gRWptpVKweXBgijkjuKZXzFRjR7q95
+3	2	2	0	0	25375949	0	0	25375949	0	0	894	https://mail.goome.ru/
+3	1	1	0	0	25467162	0	0	25467162	0	0	447	https://l.instagram.com/?u=https://goome.ru/&e=ATPtzUI07cTuZnS50Q9FIY9DkEQiuIhZOv0gPS4blsAdOFyZE4grSITNIx6VJk-98qaDHfRLhiCcOBW8
+3	1	1	0	0	25483058	0	0	25483058	0	0	2321	https://l.instagram.com/?u=https://goome.ru/&e=ATNYjcHACkC7W3buHjULsI7wyhdtWP1ENh0JL8DqwpJ6phxsbj3MTR4GPmFnlViJregUvFZmp8elsmHa
+3	1	1	0	0	25471727	0	0	25471727	0	0	119194	https://www.bing.com/
+3	0	0	1	0	0	25457745	0	0	25457745	0	0	https://l.instagram.com/?u=https://goome.ru/&e=ATMCf4SL26_X42r_qu-iQqD_I9Iga-t3ra2YYBqG8gcBTRcJviyIGbwRz1DL_0Kt8lnQ0TtdcWL73KQA
+3	2	2	0	0	25465788	0	0	25465788	0	0	894	https://yandex.ru/clck/jsredir?bu=3bn4p4&from=yandex.ru%3Bsearch/%3Bweb%3B%3B&text=&etext=1805.GYkDNgQNltSp8-mBOEvNnslN7If7btdZ6ACitS41wUQ.6beb878e3fb45bed48bde2826ea013773ea341bb&uuid=&state=PEtFfuTeVD5kpHnK9lio9dFa2ePbDzX7kPpTCH_rtQkH2bBEi5M--bO-cYhaTVRUoRk_ZWu4JsKOt-pLKnbYCLnvOrQJ4nVD&&cst=AiuY0DBWFJ5Hyx_fyvalFNmT60YEF9vJgQ2wBI8NeIxmHiZqj53ZTXB-Zii8oX-UkfH4HiqcQKje8BIDMu7gPuhCjFurvZHSUhJjS4KqrPb8Cq21ZbaAb-rNfnccS9nETnrgJpfh_E5DoZM9-jbpuVI-TOs2b_UnzxnlGvw0KcTMC-C4uprn4VAoDLkGpR6fSLHF6A5R7Or30zQUc0uE-LlWqwNJ2_3c5yj35BVc8PHwGJ_595qL5a71DUZ4IoRbcXx4V_hxVsdOMsGYvSPkbx8yIMS2tZBeMJh0jFuqXJYK3NjWdbXiOT-UgTSG_-qrdxLQ5U76sNWIcKxvM5zv1SRD8IFlQf9xj7s1tnRGDHt33hGdjwdIe0a4AzdiBicrkyIf6irOqrX8U3mbV4oams9QoqGzzV14AiR4xbd4kMSwsmvW-iSajf6t03Qp0ZNpTUiOxgU9r6nnZo8oq34Xqhx-nFf_g0qHXNDinARCFh9hq__bTi6QS8CgOWweoWIhO8GZH8ip9t475ZNwgXgcSH5JafjgBu1IwdTK1FtAmQypjZutNXqjjjFcR-5gSm-PO2r-bCmpD7yJ1Ec7i2u5dn5gfJx2dXag1oLJ3DaGqGhMb8OORbhP2f8TUSsdW02iUfrxjh2vyfOBRY2wkeftoBO3-8mFBrKhrYUrqJe0gAC79THfJ3z5QT_ho825PIqr67fm3Ap_CHWjjFZAdLdKZWeQDkoJ4GEj0JlePF85iyIfKwbKmGHBfnHFzD3U0i-OfTzpkagJN3E2DJr-a9-V0LUHeDIDZdMXdqZ7X1h7-YIkBYAH1EXyX7D4mHROAbOkEqgDwRviDXB5F41kQIGk6zMAtwW4ACdMU1D7sWv_nYjid2nYxn47P7R2BBf6Q-GQThUB4Hz0GuQGdf-5WFnSH8KmfD1TLCD_HA_IyuU-y0w15TymNt3CXjzRqZC09E5pgOAFJl-4lsM,&data=UlNrNmk5WktYejY4cHFySjRXSWhXRGFtV0YxczVVbDhEcWNEZGkwQ0xTR3VqbFNuQWdyOW5rZ3g0czJOcU0xTHJwMkJmejdjN0pzTE9XNHpvd0hMbWJ2bF9YRk1Gemxf&sign=1caf8f8d94e4047069169420047cdbee&keyno=0&b64e=2&ref=orjY4mGPRjk5boDnW0uvlrrd71vZw9kpjly_ySFdX80,&l10n=ru&cts=1527850125629&mc=2
+3	1	1	0	0	25465797	0	0	25465797	0	0	447	https://l.instagram.com/?u=https://goome.ru/&e=ATNA6w2xRQqEN1ZN4esgHdWFUfaoGPW3Y2x-8LFeU5e1p5hd1EwLwQaF_VoavUAz0dBtxUmuxmXv74Il
+3	0	0	3	0	0	25462748	0	0	25461896	0	0	https://l.instagram.com/
+3	1	1	0	0	25465797	0	0	25465797	0	0	447	https://l.instagram.com/?u=https://goome.ru/&e=ATP-WYROP7uhlHnNmZcgZSgm7tjERfVdQ0aFmj7VWJRhOpDx7xO7J-a9adjuoaClbf25izU1mf1SermN
+3	1	1	0	0	25470439	0	0	25470439	0	0	459	https://yandex.ru/clck/jsredir?bu=3kt3zh&from=yandex.ru%3Bsearch/%3Bweb%3B%3B&text=&etext=1808.W5xrMVb-MgHAavsyM4OZRHgXkR7WsJFuZu_WmlW4ggkbuk_SITqykssTbJSOMBUB.c70e0e0860f4fc5bbf926020b8d6d562c44083eb&uuid=&state=PEtFfuTeVD5kpHnK9lio9dFa2ePbDzX7kPpTCH_rtQkH2bBEi5M--bO-cYhaTVRUPt9FXYN03weBS9nKEr_LVd0b6HOMUidQ&&cst=AiuY0DBWFJ5fN_r-AEszk-mHUYp8gMtbiYjjQZaOceTH9-03UXBtp6kk3MRghR-GjA6RBZVZg5RfbBM-yIDpqJ2ncnQOv6G8nEGErdY8-Bcfn3116Pn64x4YVg8c5-FWJXXEQYBcGFlcHnXMTpfWAaI8pwM3xMnfZ-gSH9UI8TsOSGGxCwOryuqyaZkvcXdq7fzzoT21FEaSUrwzgjqRtdIo7OjyY5riysvZsdGPmqvrmUM8lOtNUcdWff_oS4HI3xuuVImvYbTSXUzwOzIxMLIJORp9rnAHyKULLDnmq9uTUWfu_L1jIiAmXktc7UcDqWUyidK57g3n6Qj09qQn-O_uGtuW4wbuFL-XYXrtzQ66Sv1OKbMTzvRSHoPtnUtoFOXOKfDzT5zwWKg7RJSlwT4qVmQvrZXGdmE-D8GDEDXwoj1-lQG9Kww51ZVUxYhIVmhnLZL9FPfQjSoUPDTu4puJO2jEXiLQ88DsaJayPwdoeM41rA_k_byMjnSRDJYuMBIA8SEw-qS5lMy-e4hSNd1Uf6IfYSctXwF_JGuQMS2obPcZoYnbwPldUljrtsYWgXsI085AkSiOMAAGlPi2KkwUGQpgQECWPcZSI4JP0pBEzm676iqXl17RSG-8dBpvoOA_IHPgTMORAzUr434gz6XG-SU0G4B63kE9g5wFeGuiABLw3X_Bq5ax-wXvNvph4LPowq4b0H61YbT7SB_1FT8x_amnOLwfURc8xViDjWOpLo3dlyxWHBT5n8DD3Di9-GXEq-2F40oX-osP0qHTaex_oJh_1ubQdhTIpRfAqEVhOszTD7J-S5-TWqiynethjJdlL5lHGJSb3fF3d-kzJpROcIwDP4yurUPrw_sA7bAQi5gIRE4jJU0gBBeYEj9wJqTP1PacXDH_Zn1gCQvuwCrcCNvu6qF-gh90iw0fwX_tLdwnH5jsTA66Exz3GrX80YSuI79jE8AL5hdatF_BnEMaeLRpaYbSxF-BryTHFccOvWDAHeKBjvi5V6zcJBJ4Q_epJN4c_ADnNjy2N7iVBvyPVT2ozUibfbaljH4I8Ug2mAuPwed2eZbmXMqXs3pclqzeF_N8bU0TRP34oy6_m_LSGOXGgQSrUCdU4gLMFHMm4KkKMCrmTvRWeet50melVug8Ct3a4cg9Dt-RHhARkxah2ctEXvdc&data=UlNrNmk5WktYejY4cHFySjRXSWhXRGFtV0YxczVVbDhEcWNEZGkwQ0xTRjRZZDNLaDNkWVlOLW8zNWJSSHF4MlNWUlAwU2o3WlROd0QydThrWE85eGZ3SEpuSUtreEpk&sign=c24179dd1131cd61ef7c7b0f749c3aaf&keyno=0&b64e=2&ref=orjY4mGPRjk5boDnW0uvlrrd71vZw9kpjly_ySFdX80,&l10n=ru&cts=1528129133760&mc=4.216193141113151
+3	1	1	0	0	25464539	0	0	25464539	0	0	447	https://l.instagram.com/?u=https://goome.ru/&e=ATNWSTKRRumfJ_-3OPwhhu3IM2WCWudB-B_fCm0Wk8qTWlUSGWES7KoQZSWlUgsrIO0h7rF796aV-lxp
+3	1	1	0	0	25464676	0	0	25464676	0	0	447	https://l.instagram.com/?u=https://goome.ru/&e=ATM8bnmussHuRQAmd4gXGhbItnQnp8r8uYMcGR2AhwjR_7KacrOQxI_TaIMC7jeOh-qGqhPCGXwgcKFQ
+3	1	1	0	0	25468955	0	0	25468955	0	0	624	https://www.yandex.ru/clck/jsredir?bu=3kr7ak&from=www.yandex.ru%3Bsearch/%3Bweb%3B%3B&text=&etext=1807.HhFmS_ETTU9CPUXhVWZ0-F-a9jSHLt17vLOdoKxMcJs.6fea06762f7697bef0483663b700d4c00065b869&uuid=&state=PEtFfuTeVD5kpHnK9lio9dFa2ePbDzX7kPpTCH_rtQkH2bBEi5M--bO-cYhaTVRUPt9FXYN03weBS9nKEr_LVd0b6HOMUidQ&&cst=AiuY0DBWFJ5fN_r-AEszk0N_Sp7yMGB_ZTgsKSAQ9TcFntJlCLdvqj_Tu2FpixiYynX_bin6klzf98HDpI5zeIKKp6VYT7cQU8orvaOiSQg9va0s0ZlSLgM-xhx9U55L-ExIfJxM45jPwWlymviE8qFgOYT_5iA1l_BsVvKHQVduc8zSk-rq4KkuSXap5YQaw-soapO4XP3eoN-JJNULmAPTtqiutfisE1hoJWzUKiqH6Tm6JWnWJXbzbU6II1IpvPtPfskS2PFdmXuwsk_cXFSQf86zd4GY_t4Yxz6O_T1n1W4Cpj2HHiddFU5hTmkzA1qVNQPVUcRLeEIDOdnlyzHienOUlqNaLEUdbkiEO3qQlx5KJquyXfM5tWpsG7Fq8wF7r-Xu6MGbcRJHO0ckpzlolrFP7jV18u1KyD2Wa9-IPaLFSjw-boJ8cen8nhTx2B3DNsA8fEHit-ZGn38MilmJoidNbXgKu1fBNamRsbbtV8FO6B-7KHVOBi1hYf8xEXsJP291hlwV05rpa2MxEqsOKGHRpfXKuAJjKXlCfIkkuQt4emK6ds1Bq1LPrEU345R8BWeCcTLNsnQ8aFsXoj4EBGVOdisaPlz1zFInwkvxeprzCa1_9SYsjTRD0oRscX7_b5nmmMQG1F5J3ANB9aos9jsn9O7f2o8PI3AGyEY2BSWoi2R89hHt43ZBv9P7RRiFYsQZzntIBC_70VzbRsjc_3njCoMhaBaauA2jR-C7ifomDkCsUOzUbP6dXv0Kt2pCZzv0WDN-iLN_Aw3X5f7Pt9E1_FmlaVezf6a2vFZnLLl0s-RLGs3OrfWE8UGKrE40y3GhOmagK7Rr_ZByC7Ihj3XOwI8wu2m5nveev10_KXIz5Q_Yj5qd-OTyg9qoRDtpGZdq15FDN6j0Jii2-3fECyA_iC695gwHMnXOA2pcL2tnerzbXgI8iNmNBLJi6B2moQjZkEOi6g6VdnbpqUzcQ2WMAq-92yp-8zC7gYk,&data=UlNrNmk5WktYejY4cHFySjRXSWhXRGFtV0YxczVVbDhEcWNEZGkwQ0xTRnJwMzdpaVNnZjh0Y0NvOTlaeV84MWJJVkREcVRLekhaZGRCZ01UUVZwS3hOZGlINmZ6VktH&sign=f1c6a995a12f34fbcb3eae3b2df246b4&keyno=0&b64e=2&ref=orjY4mGPRjlSKyJlbRuxUg7kv3-HD3rXBde6r9T1920,&l10n=ru&cts=1528040115666&mc=5.435048673632672
+3	0	0	0	1	0	0	25472003	0	0	25472003	0	https://yandex.ru/clck/jsredir?bu=7rv4eb&from=yandex.ru%3Bsearch/%3Bweb%3B%3B&text=&etext=1809.pggRvdcw15fWl8JySBGCPDDE1raEhQwNU8dY8HC9PyChOW3r9WOj4JHThk79Qz-_.02ba321e8bcf31a429cb53ba65044461a7956dfc&uuid=&state=PEtFfuTeVD5kpHnK9lio9dFa2ePbDzX7fH_cbK-eu2V8J4cbFpzDXS9pg3_VX0QdjCrETSvRn2Y-7D0p1XBAbg,,&&cst=AiuY0DBWFJ7q0qcCggtsKRSeh37ib2YB4KSlnB1Vxh5qPCg4WmhW2Koee6rA65brx5ACnoN4KX3tI54hAGO2AOqiU6HLDkbWAitOpMnJQnj1V8SiWcTbVgEfWvjv9iVvM5vi14lveGyKu4XjU9DSrSy4o_MckmsORJySRRW93hVM4TpKIbpZ9_d9DQZyA5JAptNU-uQD1zmMnni5L06q6T0c-soZPbUzXZo9iYdHIOnAJ3hbVSmM4HPhdvdEN6HdSuI-E85DTV5xc8xd24WjekfmnTDalsKgpDEh4heXr088CxOTicnwiKnZ_xooU6xYiyBgfGReG5Xi3ZYIbh5lX4KtrambGc4rpCyDmTmBsuYtTyykPCiUcpPAJ1c8HMIMuDduKhLI4SRLoZTQ6ebNJHRICPTPo2CvoEdKePyMiVFUSrd3xcxQ9dk36u-a1cKAG0p7YQC_spimy_3-uK3CvX3LG9doNMspW2YAZJXvF2m8PiuyaaVa6hGUHoHvuaM-71S7Bff3tj_6iRe6bW3an2u1EcbmMm_EU7iHG6ZpeWXXpW4M2dE44f8Pbe98AbdHDOwAo58y5ggrjMjMb2LNZ11D_33914GUueDteGYjVdbcfOEA0XorG2qNPjCzgPgg0Zpv4Llub4CTWbPTAQ5TdcdM3-KDTfNvxHAM28DIzFirj4fzHQVqxhfkqOd38Z98mLvo6h-rACr11NuD_YhcdJyCCdMXYiWTq4vFLAzBFQIQrAsj48knJB-ntexTOdro0nErD9o5ZMQXXjPZ-oh4x_Ube78wXI0YG0lEgkndC7VtnrHlSevytBh4pl74ci3NNZOaHSnW4k76WhUW-cLcFMbyDnYCexXCIlAclP-jmoUHD_IddbHXf9te5hCALl9yxLh_WF-I6xioQZu06sngZjgonYT15pVnF6dj_pR-DMKg1TTu_9wI1SGOYJA4VrkKsyPoptfMjtJhYuFhZJGOMPdGhN9vb8-OCKgYhPalJ0bTWahH-M4gcbiINIyRMOmg4Ba-DkFbawY,&data=UlNrNmk5WktYejY4cHFySjRXSWhXRGFtV0YxczVVbDhEcWNEZGkwQ0xTSGp5RkdNaV9PMURBY1FRNDFmRGJiTE5PM1o2TkJxaHhwdlM4bTBiZGdkV0ZrY3BUbV9jdndr&sign=1c7a95ddc4828905510f10b9c98411d9&keyno=0&b64e=2&ref=orjY4mGPRjk5boDnW0uvlrrd71vZw9kpjly_ySFdX80,&l10n=ru&cts=1528222982960&mc=4.910304994916671
+3	1	1	0	0	25474413	0	0	25474413	0	0	2321	https://yandex.ru/
+4	0	0	1	0	0	25461223	0	0	25461223	0	0	Mozilla/5.0 (Linux; Android 7.0; ASUS_X00GD Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36
+4	0	0	1	0	0	25457745	0	0	25457745	0	0	Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Mobile/15B150 Instagram 46.0.0.14.96 (iPhone9,3; iOS 11_1_1; ru_NZ; ru-NZ; scale=2.00; gamut=wide; 750x1334)
+4	0	0	1	0	0	25463755	0	0	25463755	0	0	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	2	0	0	25462850	0	0	25462850	0	0	Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G34 Instagram 46.0.0.14.96 (iPhone8,1; iPhone OS 9_3_3; ru_RU; ru-RU; scale=2.00; gamut=normal; 750x1334)
+4	0	0	1	0	0	25464237	0	0	25464237	0	0	Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_0 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8A293 Safari/6531.22.7
+4	1	1	0	0	25465986	0	0	25465986	0	0	447	Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 Instagram 46.0.0.14.96 (iPhone9,4; iOS 11_3_1; en_RU; en-RU; scale=2.88; gamut=wide; 1080x1920)
+4	1	1	0	0	25467239	0	0	25467239	0	0	447	Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 Instagram 46.0.0.14.96 (iPhone9,4; iOS 11_3_1; ru_RU; ru-RU; scale=2.61; gamut=wide; 1080x1920)
+4	1	1	0	0	25473562	0	0	25473562	0	0	2321	Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 Instagram 46.0.0.14.96 (iPhone10,6; iOS 11_3_1; ru_RU; ru-RU; scale=3.00; gamut=wide; 1125x2436)
+4	2	1	0	0	25471727	0	0	25471727	0	0	119194	Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+4	1	1	0	0	25465722	0	0	25465722	0	0	447	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+4	0	0	2	0	0	25459193	0	0	25459193	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Safari/537.36
+4	1	1	0	0	25468832	0	0	25468832	0	0	447	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+4	1	1	0	0	25472974	0	0	25472974	0	0	2321	Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1
+4	3	3	0	1	25465853	0	25465804	25465804	0	25465804	1341	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.137 YaBrowser/17.4.1.955 Yowser/2.5 Safari/537.36
+4	2	2	0	0	25375950	0	0	25375949	0	0	894	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+4	2	2	0	0	25465797	0	0	25465797	0	0	894	Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 Instagram 46.0.0.14.96 (iPhone9,3; iOS 11_2_6; en_RU; en-RU; scale=2.00; gamut=wide; 750x1334)
+4	0	0	1	0	0	25462748	0	0	25462748	0	0	Mozilla/5.0 (Linux; Android 5.1; m1 note Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.147 Mobile Safari/537.36 Instagram 46.0.0.15.96 Android (22/5.1; 480dpi; 1080x1920; Meizu; m1 note; m1note; mt6752; ru_RU; 109556226)
+4	4	2	0	0	25480660	0	0	25474989	0	0	4690	Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+4	0	0	2	0	0	25456414	0	0	25456411	0	0	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36 OPR/53.0.2907.68
+4	1	1	0	0	25375950	0	0	25375950	0	0	447	Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_5 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D60 Safari/604.1
+4	8	2	2	43	25483134	25463077	25483134	25379772	25459538	25376847	1215	Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	6	6	0	0	25471772	0	0	25379174	0	0	479225	Mozilla/5.0 (compatible; statdom.ru/Bot; +http://statdom.ru/bot.html)
+4	0	0	1	0	0	25461896	0	0	25461896	0	0	Mozilla/5.0 (Linux; Android 8.0.0; Mi A1 Build/OPR1.170623.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36 Instagram 46.0.0.15.96 Android (26/8.0.0; 480dpi; 1080x1920; Xiaomi/xiaomi; Mi A1; tissot_sprout; qcom; ru_BY; 109556226)
+4	0	0	1	0	0	25461915	0	0	25461915	0	0	facebookexternalhit/1.1
+4	2	1	0	0	25474413	0	0	25474413	0	0	2321	Mozilla/5.0 (Linux; Android 6.0; Redmi Note 4X Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 YaBrowser/18.4.1.513.00 Mobile Safari/537.36
+4	2	1	0	0	25471622	0	0	25471622	0	0	120942	Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.17
+4	1	1	1	0	25467888	25461669	0	25467888	25461669	0	447	facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+4	1	1	0	0	25468634	0	0	25468634	0	0	447	Mozilla/5.0 (compatible; openstat.ru/Bot)
+4	0	0	1	0	0	25458642	0	0	25458642	0	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+4	0	0	1	0	0	25461914	0	0	25461914	0	0	Mozilla/5.0 (Linux; Android 6.0.1; ASUS_Z00LD Build/MMB29P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36 Instagram 46.0.0.15.96 Android (23/6.0.1; 320dpi; 720x1280; asus; ASUS_Z00LD; ASUS_Z00L_63; qcom; ru_RU; 109556223)
+4	1	1	0	0	25477334	0	0	25477334	0	0	2321	jg
+4	2	1	0	0	25471648	0	0	25471648	0	0	120520	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36 OPR/53.0.2907.68
+4	1	1	0	1	25470439	0	25470439	25470439	0	25470439	459	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 YaBrowser/18.4.0.2080 Yowser/2.5 Safari/537.36
+4	2	2	0	1	25465788	0	25465788	25465788	0	25465788	894	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 YaBrowser/18.3.1.1235 Yowser/2.5 Safari/537.36
+4	1	1	0	0	25468832	0	0	25468832	0	0	447	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+4	1	1	0	0	25483058	0	0	25483058	0	0	2321	Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 Instagram 49.0.0.14.178 (iPhone8,1; iOS 11_3_1; en_RU; en-RU; scale=2.00; gamut=normal; 750x1334)
+4	0	0	2	0	0	25460609	0	0	25456966	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+4	1	1	0	0	25464676	0	0	25464676	0	0	447	Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 Instagram 46.0.0.14.96 (iPhone10,5; iOS 11_3_1; ru_RU; ru-RU; scale=2.61; gamut=wide; 1080x1920)
+4	1	1	0	0	25465722	0	0	25465722	0	0	447	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:51.0) Gecko/20100101 Firefox/51.0
+4	4	4	0	1	25468905	0	25468905	25468905	0	25468905	1788	Mozilla/5.0 (compatible; MJ12bot/v1.4.7; http://mj12bot.com/)
+4	1	1	0	0	25470378	0	0	25470378	0	0	459	Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_1 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0 Mobile/15C153 Safari/604.1
+4	33	18	7	12	25481851	25463602	25472011	25465802	25458467	25458467	151905	Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+4	3	3	0	0	25474218	0	0	25474216	0	0	6963	Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+4	0	0	1	0	0	25464393	0	0	25464393	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+4	1	1	0	0	25474397	0	0	25474397	0	0	2321	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+4	4	4	2	0	25476805	25464175	0	25380151	25459953	0	5536	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+4	1	1	0	0	25477198	0	0	25477198	0	0	2321	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+4	1	1	3	2	25468955	25456414	25472003	25468955	25456400	25468955	624	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+4	0	0	1	0	0	25462922	0	0	25462922	0	0	Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36 Instagram 46.0.0.14.96 (iPhone4,1; iPhone OS 9_3_5; ru_RU; ru-RU; scale=2.00; gamut=normal; 640x960)
+4	4	4	6	0	25464540	25461992	0	25464539	25457065	0	1788	Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 Instagram 46.0.0.14.96 (iPhone9,4; iOS 11_3_1; ru_RU; ru-RU; scale=2.88; gamut=wide; 1080x1920)
+4	1	1	0	0	25375950	0	0	25375950	0	0	447	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko; Google Page Speed Insights) Chrome/41.0.2272.118 Mobile Safari/537.36
+4	1	1	0	0	25470198	0	0	25470198	0	0	459	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393
+4	1	1	0	0	25474397	0	0	25474397	0	0	2321	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+4	3	2	0	0	25483059	0	0	25483058	0	0	4642	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+4	1	1	0	0	25467326	0	0	25467326	0	0	447	facebookexternalua
+4	5	5	0	2	25468549	0	25468549	25468158	0	25468158	2235	Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+4	1	1	0	0	25467162	0	0	25467162	0	0	447	Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 Instagram 46.0.0.14.96 (iPhone9,3; iOS 10_3_3; ru_RU; ru-RU; scale=2.00; gamut=wide; 750x1334)
+4	1	1	0	0	25375949	0	0	25375949	0	0	447	Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1
+4	1	1	0	0	25470198	0	0	25470198	0	0	459	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+4	1	1	0	0	25475731	0	0	25475731	0	0	2321	nd
+4	0	0	1	0	0	25462817	0	0	25462817	0	0	Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 Instagram 46.0.0.14.96 (iPhone7,2; iOS 10_3_3; en_RU; ru-RU; scale=2.00; gamut=normal; 750x1334)
+4	0	0	1	0	0	25462175	0	0	25462175	0	0	Mozilla/5.0 (compatible; StatOnlineRuBot/1.0)
+4	0	0	1	0	0	25460232	0	0	25460232	0	0	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+5	8	8	0	8	25380151	0	25380449	25375949	0	25376847	3576	54.36.187.89
+5	113	84	43	57	25483134	25464393	25483134	25464539	25456400	25457091	1055339	82.202.201.59
+z	0	6	0	25483058	0
+z	2	23	0	25483134	552
+z	3	51	51	25470439	23730
+z	4	33	33	25483059	76593
+z	6	8	8	25471772	958040
+c	200	121	25483134
+c	301	43	25464393
+c	400	2	25465860
+c	404	60	25483134
+c	500	3	25472011
